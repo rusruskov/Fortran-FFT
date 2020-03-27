@@ -4,7 +4,7 @@ contains
   SUBROUTINE generate_exp(N, exp_factors)
     ! Generates the exponential factors which are used in the subroutines
     ! bellow.
-
+    !
     ! Inputs : N 
     !
     ! Outputs : exp_factors - array of the form W[n] = exp(-2j*pi*n/N)
