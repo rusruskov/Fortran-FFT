@@ -5,7 +5,7 @@ contains
     ! Generates the exponential factors which are used in the subroutines
     ! bellow.
 
-    ! Inputs : N - the length of the output array
+    ! Inputs : N 
     !
     ! Outputs : exp_factors - array of the form W[n] = exp(-2j*pi*n/N)
 
